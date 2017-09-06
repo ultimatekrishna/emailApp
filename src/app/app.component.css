@@ -1,0 +1,33 @@
+.container div {
+  display: inline;
+  margin-right: 20px
+}
+
+.container div:last-child {
+  margin-right: 0;
+}
+
+.container {
+  display: inline;
+}
+
+.emails {
+  border: 1px solid black;
+  margin-left: 10px;
+}
+
+.editor {
+  border: none;
+  outline: none;
+  width: 100%;
+  overflow: auto;
+}
+
+.wrapper {
+  border-bottom: 1px solid #cfcfcf;
+  overflow-x: auto;
+}
+
+input{
+	display: inline;
+}
